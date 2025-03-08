@@ -1,6 +1,7 @@
 Welcome to my Calculator project! This is a simple calculator that allows you to perform basic mathematical operations, like addition, subtraction, multiplication, division, and percentage calculation. It accepts decimal numbers.
 
 Features
+
 Perform basic arithmetic operations: addition, subtraction, multiplication, division and percentage calculation.
 Support for decimal numbers for more precise calculations.
 Delete button to remove a single digit.
@@ -9,9 +10,11 @@ Clear button to remove all digits and to reset the calculator.
 
 
 Technologies used for this project
+
 HTML
 CSS
 JavaScript
 
 Demo
+
 You can try out the live demo of the calculator [here](https://TodorBonev.github.io/Calculator).

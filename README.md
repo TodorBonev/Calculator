@@ -16,4 +16,4 @@ Technologies used for this project:
 * JavaScript
 
 
-You can try out the live demo of the calculator [here](https://TodorBonev.github.io/Calculator).
+You can try out the live demo of this calculator [here](https://TodorBonev.github.io/Calculator).

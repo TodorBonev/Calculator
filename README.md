@@ -14,4 +14,4 @@ CSS
 JavaScript
 
 Demo
-You can try out the live demo of the calculator here.
+You can try out the live demo of the calculator [here](https://TodorBonev.github.io/Calculator).
